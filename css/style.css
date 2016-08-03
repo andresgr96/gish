@@ -1,0 +1,16 @@
+.important {
+  font-family:serif;
+  font-weight:bolder;
+  color:#663300;
+}
+
+.unimportant {
+    font-family:sans-serif;
+    font-weight:lighter;
+    color:#ffe680;background-color:#202060;
+}
+
+.fishhype {
+    font-weight:bolder;
+    font-style:italic;
+}
