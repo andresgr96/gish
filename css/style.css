@@ -1,4 +1,4 @@
-.important {
+/*.important {
   font-family:serif;
   font-weight:bolder;
   color:#663300;
@@ -13,4 +13,13 @@
 .fishhype {
     font-weight:bolder;
     font-style:italic;
+}*/
+.light-background {
+  background-color: #ffffff;
+  color: #000000;
+}
+
+.dark-background {
+  background-color: #000000;
+  color: #ffffff;
 }
